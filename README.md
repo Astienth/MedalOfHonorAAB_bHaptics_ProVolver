@@ -4,11 +4,11 @@
 <b>Bhaptics integration for the VR game Medal of Honor Above and Beyond</b>
 
 </br>[https://store.steampowered.com/app/1402320/Medal_of_Honor_Above_and_Beyond/](https://store.steampowered.com/app/1402320/Medal_of_Honor_Above_and_Beyond/)
-
+</br></br>
 ☕ If you wanna show some support you can buy me a coffee : https://www.buymeacoffee.com/astienth4
-
-<b>Supported devices :</b>
-bHaptics Vest and arms and tactvisor
+</br></br>
+<b>Supported devices :</b></br>
+bHaptics Vest and arms and tactvisor</br>
 Protube devices
 
 # <b>Manual installation</b></br>
