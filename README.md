@@ -1,14 +1,13 @@
-# MedalOfHonorAAB_bHaptics_ProVolver
 <img src="https://cdn.akamai.steamstatic.com/steam/apps/1402320/header.jpg" />
 </br>
 <b>Bhaptics integration for the VR game Medal of Honor Above and Beyond</b>
 
 </br>[https://store.steampowered.com/app/1402320/Medal_of_Honor_Above_and_Beyond/](https://store.steampowered.com/app/1402320/Medal_of_Honor_Above_and_Beyond/)
-</br></br>
+
 ☕ If you wanna show some support you can buy me a coffee : https://www.buymeacoffee.com/astienth4
-</br></br>
-<b>Supported devices :</b></br>
-bHaptics Vest and arms and tactvisor</br>
+
+<b>Supported devices :</b>
+bHaptics Vest and arms and tactvisor
 Protube devices
 
 # <b>Manual installation</b></br>
@@ -19,6 +18,20 @@ Protube devices
 
 
 3) Launch bhaptic player and turn your devices on. Turn your protube device on</br>
-4) Run **MOHAB_Bhaptics.bat**.</br>It will launch the game and you should feel the initial heartbeat
 
-<b>THE GAME CAN TAKE A LONG TIME TO LAUNCH</b>
+4) Launch the game manually just like you usually do and <b>WAIT UNTIL YOU ARE IN THE GAME</b>
+
+## If you already have a save wait for this screen:
+<img src="https://i.ibb.co/4Nh27T1/Capture2.jpg" style="max-width: 450px;" /></br></br>
+
+Run **MOHAB_Bhaptics.bat**.</br> and load your save
+
+
+## OR
+
+## If your started a new game wait for this screen:
+<img src="https://i.ibb.co/gZ295bP/Capture.jpg" style="max-width: 450px;"></br></br>
+
+Run **MOHAB_Bhaptics.bat**.</br> 
+<b>The mod will be active after loading the next level</b>
+
